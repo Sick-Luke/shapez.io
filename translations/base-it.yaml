@@ -346,7 +346,7 @@ ingame:
         clearSelection: Annulla selezione
         pipette: Contagocce
         switchLayers: Cambia livello
-        clearBelts: Clear belts
+        clearBelts: Libera i nastri
     buildingPlacement:
         cycleBuildingVariants: Premi <key> per cambiare variante.
         hotkeyLabel: "Hotkey: <key>"
